@@ -78,4 +78,4 @@ On the other hand, the output of the unstable sorting algorithm shows that the p
 
 
 ## References
-- [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
+- [Other Algorithms & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
